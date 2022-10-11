@@ -1,1 +1,1 @@
-# caddy-webteleport
+# caddy-gos
